@@ -1,0 +1,7 @@
+
+number of trainable parameters: 3.27M
+Traceback (most recent call last):
+  File "/Users/krishpatel/Desktop/MiniGPT/tempCodeRunnerFile.py", line 87, in <module>
+    for epoch in range(config.epochs):
+                       ^^^^^^^^^^^^^
+AttributeError: type object 'BigramConfig' has no attribute 'epochs'

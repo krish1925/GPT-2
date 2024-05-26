@@ -1,0 +1,37 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-05-22T06:28:16.968265",
+    "startedAt": "2024-05-22T06:28:16.208367",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/krishpatel/Desktop/MiniGPT/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/shreyasrajesh0308/MiniGPT.git",
+        "commit": "838c0c5735890bcf49a4c21cfc84e07d75690728"
+    },
+    "email": "krishhnpatel@gmail.com",
+    "root": "/Users/krishpatel/Desktop/MiniGPT",
+    "host": "Krishs-Air.lan",
+    "username": "krishpatel",
+    "executable": "/Users/krishpatel/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 339.2529296875,
+            "used": 290.6424140930176
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

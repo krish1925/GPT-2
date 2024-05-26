@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/krishpatel/Desktop/MiniGPT/train.py", line 82, in <module>
+    optimizer = torch.optim.Adam(model.parameters(), lr=config.lr)
+                                                        ^^^^^^^^^
+AttributeError: type object 'BigramConfig' has no attribute 'lr'
+number of trainable parameters: 3.27M
